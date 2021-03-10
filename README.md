@@ -9,12 +9,12 @@ Przykład:
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="style.css">
-        <title>Tytuł strony</title>
-    </head>
-    <body>
+   <head>
+       <meta charset="utf-8">
+       <link rel="stylesheet" href="style.css">
+       <title>Tytuł strony</title>
+   </head>
+   <body>
         
-    </body>
+   </body>
 </html>
