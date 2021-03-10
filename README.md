@@ -6,3 +6,15 @@ Zanim zaczniesz programować zalecam ściągnąć https://notepad-plus-plus.org/
 Strukturę strony w języku HTML tworzy się za pomocą tak zwanych. znaczników (z języka Angielskiego tagów). Każdy znacznik jest ograniczony symbolami < oraz > Większość znaczników ma atrybuty, a każdy atrybut - swoje wartości. Znaczniki powinny być pisane małymi literami.
 Przykład:
 <znacznik atrybut="wartość"> tekst </znacznik>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        <title>Tytuł strony</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
