@@ -18,3 +18,14 @@ Przykład:
         
    </body>
 </html>
+
+   #Definicja dokumentu
+Określa język, w jakim napisano stronę. Najczęściej używanym znacznikiem jest <html>. Możliwe jest także zastosowanie dodatkowych parametrów do określenia typu języka lub ustawień regionalnych Przykład.
+   <html lang="pl=PL">
+      
+   #Nagłówek dokumentu
+Zawiera informacje o stronie, które nie są wyświetlane w oknie przeglądarki. Najczęściej stosowanymi znacznikami w nagłówku są:
+# <title> Określa tutuł strony </title>
+# <style> Definiuje wewnętrzne arkusze stylów </style>
+# <link> Odsyłacz do innego dokumentu hipertekstowego </link>
+# <meta> Zawiera szegółowe informacje o stronie, np kodowanie, słowa kluczowe, dane autora
