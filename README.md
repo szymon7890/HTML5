@@ -29,3 +29,4 @@ Zawiera informacje o stronie, które nie są wyświetlane w oknie przeglądarki.
 # <style> Definiuje wewnętrzne arkusze stylów </style>
 # <link> Odsyłacz do innego dokumentu hipertekstowego </link>
 # <meta> Zawiera szegółowe informacje o stronie, np kodowanie, słowa kluczowe, dane autora
+
