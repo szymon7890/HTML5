@@ -15,7 +15,6 @@ Przykład:
        <title>Tytuł strony</title>
    </head>
    <body>
-   <body>
         
    </body>
 </html>
